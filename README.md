@@ -12,13 +12,20 @@ To get the information about Mars weather, I again used Splinter and BeautifulSo
 #Visuals
 
 Plot of average temperature by month
+![image](https://github.com/kbrantner/mars_challenge/assets/117327499/27989bfe-5e3d-41db-a262-d0a161da99e5)
+
  
 Plot of the hottest and coldest months on Mars
+![image](https://github.com/kbrantner/mars_challenge/assets/117327499/95c77e32-854d-496a-928f-f627934f7ff1)
+
  
 Plot of the average pressure on Mars by month
+![image](https://github.com/kbrantner/mars_challenge/assets/117327499/3be4fed4-ec98-4eab-abae-b8f9138a2c0a)
+
  
 Plot that helps determine the number of Earth Days in a Martian year
- 
+![image](https://github.com/kbrantner/mars_challenge/assets/117327499/4977ed0d-c9b6-4f3a-ac8f-7e4eabf15087)
+
 
 
 
